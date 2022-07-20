@@ -1,11 +1,9 @@
 
 # Press the green button in the gutter to run the script.
+import mylib
 
 def main():
-    a=int(input('enter a:'))
-    b=int(input('enter b:'))
-    print(a+b)
-
+    mylib.Window_display("hello")
 
 
 
