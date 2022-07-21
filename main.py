@@ -3,7 +3,7 @@
 import mylib
 
 def main():
-    mylib.Window_display("hello")
+    mylib.Window_display("hello world")
 
 
 
